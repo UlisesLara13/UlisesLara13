@@ -79,11 +79,16 @@
 
 
 
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ulises-lara-granatelli/"><img src="https://img.shields.io/badge/Ulises%20Lara%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:laraulises2000@gmail.com"><img src="https://img.shields.io/badge/-uliseslara-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/uliseslara13/"><img src="https://img.shields.io/badge/-uliseslara13-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ulises-lara-granatelli/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Ulises%20Lara-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Ulises Lara"/>
+  </a>
+  <a href="mailto:laraulises2000@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-uliseslara-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Ulises Lara"/>
+  </a>
+  <a href="https://www.instagram.com/uliseslara13/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-uliseslara13-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Ulises Lara"/>
+  </a>
 </p>
