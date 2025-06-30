@@ -22,7 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
@@ -51,6 +51,13 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%23007ACC.svg?style=for-the-badge&logo=virtualbox&logoColor=white)&nbsp;
+
+### 🧪 &nbsp;Testing Tools
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Mockito](https://img.shields.io/badge/Mockito-%234ea94b.svg?style=for-the-badge&logoColor=white)&nbsp;
+
 
 
 
