@@ -6,8 +6,7 @@
 
 👨‍💻 &nbsp;Fullstack Software Developer from Argentina.\
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;Associate's degree in Computer Programming from Universidad Tecnológica Nacional – Córdoba .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
+🎓 &nbsp;Associate’s degree in Programming (“Tecnicatura Universitaria en Programación”) from Universidad Tecnológica Nacional – Córdoba.
 ✉️ &nbsp;You can shoot me an email at laraulises2000@gmail.com! I'll try to respond as soon as I can.\
 
 
