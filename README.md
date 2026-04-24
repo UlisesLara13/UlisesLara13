@@ -57,7 +57,7 @@
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Mockito](https://img.shields.io/badge/Mockito-%234ea94b.svg?style=for-the-badge&logoColor=white)&nbsp;
-![Selenium](https://img.shields.io/badge/Selenium-%234ea94b.svg?style=for-the-badge&logoColor=white)&nbsp;
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 
